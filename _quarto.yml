@@ -1,0 +1,35 @@
+project:
+  type: book
+
+book:
+  title: "Fundamentals of machine learning"
+  author: "oz-e"
+  date: "19/01/2025"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - flatly
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+
+# ---
+# filters:
+#   - acronyms
+# ---
+# acronyms:
+#   keys:
+#     - shortname: qmd
+#       longname: Quarto documents
+#     - shortname: YAML
+#       longname: YAML Ain't Markup Language
+# ---

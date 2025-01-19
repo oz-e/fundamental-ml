@@ -1,0 +1,5 @@
+# Introduction to machine learning
+
+## What is machine learning?
+
+Firstly we must ask ourselves, what is machine learning? Put simply, it is about learning (or [otherWordMissing]) from experience, without explicit programming. This definition is synthesised from more formal definitions in @5392560.
