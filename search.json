@@ -1,0 +1,52 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Fundamentals of machine learning",
+    "section": "",
+    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction to machine learning",
+    "section": "",
+    "text": "1.1 What is machine learning?\nFirstly we must ask ourselves, what is machine learning? Put simply, it is about learning (or [otherWordMissing]) from experience, without explicit programming. This definition is synthesised from more formal definitions in Samuel (1959).",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to machine learning</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#what-is-machine-learning",
+    "href": "intro.html#what-is-machine-learning",
+    "title": "1  Introduction to machine learning",
+    "section": "",
+    "text": "Samuel, A. L. 1959. “Some Studies in Machine Learning Using the Game of Checkers.” IBM Journal of Research and Development 3 (3): 210–29. https://doi.org/10.1147/rd.33.0210.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to machine learning</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Samuel, A. L. 1959. “Some Studies in Machine Learning Using the\nGame of Checkers.” IBM Journal of Research and\nDevelopment 3 (3): 210–29. https://doi.org/10.1147/rd.33.0210.",
+    "crumbs": [
+      "References"
+    ]
+  }
+]
